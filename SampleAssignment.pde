@@ -5,7 +5,7 @@ void setup()
 }
 void draw()
 {
-  fill(255,239,213);
+  fill(255,218,185);
   ellipse(100,50,80,80);
   arc(100,50,60,60,PI/8,7*PI/8);
   fill(0,0,0);
